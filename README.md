@@ -20,6 +20,9 @@ The materials are designed for a **50-minute advanced GIS lecture**, combining c
   </a>
 </p>
 
+> ⚠️ **Note:** We apologize that this demo video currently has no audio due to technical issues.  
+> The issue will be resolved in a future update.
+
 ---
 
 ## 🧭 Table of Contents
