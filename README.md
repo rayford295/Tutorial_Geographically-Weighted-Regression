@@ -1,8 +1,7 @@
 # 📊 Tutorial: Geographically Weighted Regression (GWR)
 
 Guest lecture materials for **GEOG 475: Advanced GIS**  
-**Department of Geography, Texas A&M University**
-
+**Yifan Yang, Department of Geography, Texas A&M University**
 ---
 
 ## 🔎 Overview
@@ -12,6 +11,12 @@ This repository provides a structured introduction to **Geographically Weighted 
 Unlike traditional global regression models, GWR allows regression coefficients to vary across geographic space, enabling researchers to explore **local variations in geographic processes** that would otherwise be obscured by global averages.
 
 The materials are designed for a **50-minute advanced GIS lecture**, combining conceptual foundations with a hands-on Python-based demonstration.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rayford295/Tutorial_Geographically-Weighted-Regression/main/slides%20%26%20figures/GWR.png" 
+       alt="Geographically Weighted Regression (GWR) Overview" 
+       width="500">
+</p>
 
 ---
 
