@@ -34,6 +34,17 @@ The materials are designed for a **50-minute advanced GIS lecture**, combining c
 - [🧪 Example Use Cases](#-example-use-cases)
 - [📝 Citation](#-citation)
 
+
+---
+### 🎥 Lecture Video
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Hd-h4u4WzNg">
+    <img src="https://img.youtube.com/vi/Hd-h4u4WzNg/hqdefault.jpg" width="660">
+  </a>
+</p>
+
+
 ---
 
 ## 📘 What is GWR?
