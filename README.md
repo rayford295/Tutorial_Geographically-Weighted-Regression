@@ -17,17 +17,17 @@ The materials are designed for a **50-minute advanced GIS lecture**, combining c
 
 ## 🧭 Table of Contents
 
-- [What is GWR?](#-what-is-gwr)
-- [Key Concepts](#-key-concepts)
-- [Hands-on Tutorial (Code)](#-hands-on-tutorial-code)
-- [Lecture Slides and Figures](#-lecture-slides-and-figures)
-- [Suggested Teaching Flow](#-suggested-teaching-flow-session)
-- [Methodological Notes](#-methodological-notes)
-- [Intended Audience](#-intended-audience)
-- [Reuse and Adaptation](#-reuse-and-adaptation)
-- [Recommended Resources](#-recommended-resources)
-- [Example Use Cases](#-example-use-cases)
-- [Citation](#-citation)
+- [What is GWR?](#what-is-gwr)
+- [Key Concepts](#key-concepts)
+- [Hands-on Tutorial (Code)](#hands-on-tutorial-code)
+- [Lecture Slides and Figures](#lecture-slides-and-figures)
+- [Suggested Teaching Flow](#suggested-teaching-flow)
+- [Methodological Notes](#methodological-notes)
+- [Intended Audience](#intended-audience)
+- [Reuse and Adaptation](#reuse-and-adaptation)
+- [Recommended Resources](#recommended-resources)
+- [Example Use Cases](#example-use-cases)
+- [Citation](#citation)
 
 ---
 
